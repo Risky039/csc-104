@@ -1,0 +1,12 @@
+.header{
+    font-size: larger;
+    padding: 0%;
+    background-color: azure;
+}
+.container{
+    background-color: aqua;
+    border-radius: 13px;
+    text-align: right;
+    border-width: 64cm;
+    box-sizing: content-box;
+}

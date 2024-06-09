@@ -1,0 +1,42 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: white;
+    position: relative;
+    background-position:center;
+    
+}
+
+.h1{
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+}
+#calculator {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-items: center;
+    align-items: center;
+}
+
+.course {
+    display: flex;
+    gap: 5px;
+    justify-items: center;
+    align-items: center;
+}
+
+#courses {
+    margin-top: 10px;
+    justify-items: center;
+    align-items: center;
+}
+
+#cgpa {
+    font-weight: bold;
+    justify-items: center;
+    align-items: center;
+}
